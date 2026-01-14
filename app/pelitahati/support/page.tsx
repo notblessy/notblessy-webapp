@@ -23,12 +23,12 @@ export default function SupportPage() {
         </div>
 
         {/* Title */}
-        <h1 className="text-2xl font-light tracking-wide text-dark mb-6">
+        <h1 className="text-2xl font-bold tracking-wide text-dark mb-6">
           PelitaHati Support
         </h1>
 
         {/* Support Content */}
-        <div className="text-base text-muted font-light max-w-md leading-relaxed mb-8 space-y-4">
+        <div className="text-base text-dark font-light max-w-md leading-relaxed mb-8 space-y-4">
           <p>
             Need help with PelitaHati? We&apos;re here to assist you.
           </p>
@@ -39,21 +39,31 @@ export default function SupportPage() {
 
         {/* Common Issues */}
         <div className="w-full max-w-md mb-8 text-left">
-          <h2 className="text-lg font-light text-dark mb-4">Common Questions</h2>
-          <div className="space-y-3 text-sm text-muted">
+          <h2 className="text-lg font-bold text-dark mb-4">Common Questions</h2>
+          <div className="space-y-3 text-sm text-dark">
             <div>
-              <p className="font-medium text-dark mb-1">Subscription Issues</p>
+              <p className="font-bold text-dark mb-1">Subscription Issues</p>
               <p>If your subscription hasn&apos;t activated, try refreshing your account in the profile page.</p>
             </div>
             <div>
-              <p className="font-medium text-dark mb-1">App Not Working</p>
+              <p className="font-bold text-dark mb-1">App Not Working</p>
               <p>Try closing and reopening the app, or restart your device.</p>
             </div>
             <div>
-              <p className="font-medium text-dark mb-1">Payment Problems</p>
+              <p className="font-bold text-dark mb-1">Payment Problems</p>
               <p>Check your payment method and ensure you have a stable internet connection.</p>
             </div>
           </div>
+        </div>
+
+        {/* Privacy Policy Link */}
+        <div className="mb-8">
+          <a
+            href="/pelitahati/privacy"
+            className="text-base text-primary font-light hover:opacity-80 transition-opacity underline underline-offset-4"
+          >
+            Privacy Policy
+          </a>
         </div>
 
         {/* Decorative elements */}
