@@ -39,7 +39,7 @@ export default function SupportPage() {
             </p>
             <div>
               <a
-                href="mailto:support@notblessy.com"
+                href="mailto:frederichblessy@gmail.com"
                 className="text-lg text-primary font-light hover:opacity-80 transition-opacity underline underline-offset-4"
               >
                 frederichblessy@gmail.com
@@ -59,8 +59,8 @@ export default function SupportPage() {
               <h3 className="font-bold text-dark mb-2">How do I contact support?</h3>
               <p className="text-dark font-light">
                 You can reach our support team by emailing us at{" "}
-                <a href="mailto:support@notblessy.com" className="text-primary underline underline-offset-4">
-                  support@notblessy.com
+                <a href="mailto:frederichblessy@gmail.com" className="text-primary underline underline-offset-4">
+                  frederichblessy@gmail.com
                 </a>
                 . You can also access support directly from the app settings menu.
               </p>
@@ -99,8 +99,8 @@ export default function SupportPage() {
               <h3 className="font-bold text-dark mb-2">Feature Requests</h3>
               <p className="text-dark font-light">
                 We welcome your feedback and feature suggestions! Please email us at{" "}
-                <a href="mailto:support@notblessy.com" className="text-primary underline underline-offset-4">
-                  support@notblessy.com
+                <a href="mailto:frederichblessy@gmail.com" className="text-primary underline underline-offset-4">
+                  frederichblessy@gmail.com
                 </a>
                 {" "}with your ideas and we&apos;ll consider them for future updates.
               </p>
