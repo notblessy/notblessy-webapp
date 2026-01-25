@@ -128,7 +128,7 @@ export default function Home() {
               alt="notblessy"
               width={80}
               height={80}
-              className="w-full h-full object-contain scale-80"
+              className="w-full h-full object-contain scale-125"
             />
           </div>
         </div>
