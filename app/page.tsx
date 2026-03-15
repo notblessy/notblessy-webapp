@@ -44,7 +44,7 @@ export default function Home() {
       id: "pelita",
       name: "Pelita",
       icon: "/pelita.png",
-      playStore: null, // Coming soon
+      playStore: "https://play.google.com/store/apps/details?id=com.pelitahati.app&pcampaignid=web_share",
       appStore: "https://apps.apple.com/id/app/pelita-hati/id6757474681?l=id",
       website: null,
       privacy: "/pelitahati/privacy",
@@ -65,7 +65,7 @@ export default function Home() {
       id: "hrmoni",
       name: "hrmoni.",
       icon: "/hrmoni.png",
-      playStore: null, // Coming soon
+      playStore: "https://play.google.com/store/apps/details?id=com.keepgoing.hrmoni&pcampaignid=web_share",
       appStore: "https://apps.apple.com/id/app/hrmoni/id6751935151?l=id",
       website: null,
       privacy: "https://hrmoni.id/privacy",
@@ -98,6 +98,17 @@ export default function Home() {
       id: "tropicalism",
       name: "Tropicalism",
       icon: "/tropicalism.png",
+      playStore: null, // Coming soon
+      appStore: null, // Coming soon
+      website: null, // Coming soon
+      privacy: null,
+      support: null,
+      internalLink: null,
+    },
+    {
+      id: "hitungpajak",
+      name: "Hitung Pajak",
+      icon: "/hitungpajaik.png",
       playStore: null, // Coming soon
       appStore: null, // Coming soon
       website: null, // Coming soon
