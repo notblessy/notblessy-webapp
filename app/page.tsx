@@ -108,7 +108,7 @@ export default function Home() {
     {
       id: "hitungpajak",
       name: "Hitung Pajak",
-      icon: "/hitungpajaik.png",
+      icon: "/hitungpajak.png",
       playStore: null, // Coming soon
       appStore: null, // Coming soon
       website: null, // Coming soon
