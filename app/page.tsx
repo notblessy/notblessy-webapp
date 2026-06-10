@@ -26,7 +26,7 @@ export default function Home() {
         </h1>
 
         <p className="text-sm sm:text-base text-muted font-light max-w-lg leading-relaxed mb-3 px-4">
-          Indie developer building apps and tools.
+          Building apps and tools with PT Deploy Jumat Malam.
         </p>
 
         {/* Bio */}
